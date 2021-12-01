@@ -2,21 +2,21 @@
 Repositorio de planificación para la Repro-Hack UChile 2022
 
 **Oportunidades**
-Construcción de redes interdisciplinarias
-Compartir el entusiasmo por la ciencia abierta en la comunidad
-Invitar a un avance en apertura para _todas_ las Unidades Académicas
+1. Construcción de redes interdisciplinarias
+2. Compartir el entusiasmo por la ciencia abierta en la comunidad
+3. Invitar a un avance en apertura para _todas_ las Unidades Académicas
 
 **Desafíos**
-Equipo de organización debe ser grande
-Organizar las finanzas y materiales (¿apoyo institucional?)
-Ubicación (¿Hibridez?)
-Communication entre disciplinas (diferentes herramientas estadísticas y datos, lenguajes de programación, etc)
-Diferentes habilidades y conocimientos sobre Ciencia Abierta
+1. Equipo de organización debe ser grande
+2. Organizar las finanzas y materiales (¿apoyo institucional?)
+3. Ubicación (¿Hibridez?)
+4. Communication entre disciplinas (diferentes herramientas estadísticas y datos, lenguajes de programación, etc)
+5. Diferentes habilidades y conocimientos sobre Ciencia Abierta
 
 ## Posibles alternativas
 **De participación**
-1. Repro-Hack abierta: todo tipo de equipos (sólo académiques, sólo estudiantes, sólo funcionaries, mixtos)
-2. Repro-Hack comunidad: sólo equipos mixtos (todo equipo debe incluir al menos dos estudiantes)
+- Repro-Hack abierta: todo tipo de equipos (sólo académiques, sólo estudiantes, sólo funcionaries, mixtos)
+- Repro-Hack comunidad: sólo equipos mixtos (todo equipo debe incluir al menos dos estudiantes)
 
 **De proyectos**
 - Repro-Hack abierta: todas las Unidades Académicas, inscripción de tema libre y lenguajes de programación utilizados
