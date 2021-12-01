@@ -24,7 +24,7 @@ Diferentes habilidades y conocimientos sobre Ciencia Abierta
 - Repro-Hack con R: todas las Unidades Académicas y tema libre, pero sólo un lenguaje de programación
   - Favorece la colaboración interdisciplinar
   - Reduce la participación
--  Reprohack temática: se abordan temáticas predefinidas desde todas las Unidades Académicas y lenguajes de programación
+-  Repro-Hack temática: se abordan temáticas predefinidas desde todas las Unidades Académicas y lenguajes de programación
   - Favorece la colaboración interdisciplinar y la participación
   - Las temáticas deben permitir la colaboración de toda la comunidad
 
