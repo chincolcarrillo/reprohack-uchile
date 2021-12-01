@@ -25,7 +25,7 @@ Diferentes habilidades y conocimientos sobre Ciencia Abierta
   - Favorece la colaboración interdisciplinar
   - Reduce la participación
 -  Repro-Hack temática: se abordan temáticas predefinidas desde todas las Unidades Académicas y lenguajes de programación
-  - Favorece la colaboración interdisciplinar y la participación
-  - Las temáticas deben permitir la colaboración de toda la comunidad
+  -  Favorece la colaboración interdisciplinar y la participación
+  -  Las temáticas deben permitir la colaboración de toda la comunidad
 
 ¿Posibilidades de realización en conjunto con SISIB y VTI? Quizás enmarcada en una "Semana de la Ciencia Abierta"
