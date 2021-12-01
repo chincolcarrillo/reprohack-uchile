@@ -31,3 +31,4 @@ Diferentes habilidades y conocimientos sobre Ciencia Abierta
   - Favorece la participación
   - Las temáticas deben permitir la colaboración de toda la comunidad
 
+¿Posibilidades de realización en conjunto con SISIB y VTI? Quizás enmarcada en una "Semana de la Ciencia Abierta"
